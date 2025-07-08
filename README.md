@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Our Mission:
+
+Share knowledge about electric propulsion systems
+Share knowledge about foiling technology
+Develop a electric foiling 2 seater jetski and make it available for everyone to build en contribute to the development of the foiling jetski
+
+
+
 <!--
 **ProjectFoiling/ProjectFoiling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
